@@ -1,4 +1,7 @@
-### Sawubona 👋
+### 你好 👋
+<br>
+<br>
+我没有天生的聪慧过人，所以只能用时间积累，加油。
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/uk0/count.svg)
