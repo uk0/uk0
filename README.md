@@ -12,7 +12,7 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uk0&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uk0&show_icons=true&theme=highcontrast)
 
 
 <!--START_SECTION:waka-->
