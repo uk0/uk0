@@ -5,18 +5,17 @@
 
 <br>
 <br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uk0&layout=compact)](https://github.com/Christmas/github-readme-stats)
-
-<br>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uk0&show_icons=true&theme=radical)
 
 <a href="https://github.com/uk0/file_encryption">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uk0&repo=file_encryption" />
 </a>
+
+<br>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uk0&layout=compact)](https://github.com/Christmas/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uk0&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
