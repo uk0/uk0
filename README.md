@@ -12,14 +12,10 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uk0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uk0&layout=compact)]()
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uk0&show_icons=true&theme=radical)
 
 <br>
 
-[![uk-wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uk0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![uk-wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uk0&layout=compact)]()
