@@ -16,7 +16,8 @@ Booting.chat служит многофункциональным портало�
 
 ### free example
 
-<img width="800" hight="600" alt="image" src="https://github.com/user-attachments/assets/f3df4e7a-e28d-44e5-a94d-efde3c4cf2b6">
+<img width="800" hight="600"  alt="image" src="https://github.com/user-attachments/assets/3db64688-ddff-449e-9bd9-710bff583c2d" />
+
 
 
 <!-- [![uk-wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uk0&layout=compact)]() -->
