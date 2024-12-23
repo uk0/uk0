@@ -1,6 +1,10 @@
-### 你好 👋
+### Hi bro|你好哇 👋
 <br>
 <br>
+<br>
+<br>
+
+
 ## qwq.chat: Your Gateway to AI Interaction
 
 ### English
