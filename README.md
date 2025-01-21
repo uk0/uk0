@@ -7,7 +7,11 @@
 
 ## **[QwQChat](https://qwq.chat)** ： Your Gateway to AI Interaction
 
-* [QwQChat](https://qwq.chat) Support Github Login （free 20w Tokens）
+* [QwQChat](https://qwq.chat) Support Github Login （free 20w Tokens)
+
+### changelog
+
+* fix github login bug :)
 
 ### English
 
