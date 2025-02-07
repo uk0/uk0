@@ -1,18 +1,15 @@
 ### Hi bro|你好哇 👋
 <br>
 <br>
-<br>
-<br>
 
 
-## **[QwQChat](https://qwq.chat)** ： Your Gateway to AI Interaction
+## **[QWQChat](https://qwq.chat)** ： Your Gateway to AI Interaction
 
-* [QwQChat](https://qwq.chat) Support Github Login （free)
+* [QWQChat](https://qwq.chat) Support Github Login （free)
 
 ### changelog
 
-* fix github login bug :)
-* 完全公益咯，我在Linux.do token不够的找我加即可。
+* 完全公益咯，我在`Linux.do` token不够的找我加即可ID: `@NEOJ`
 
 ### English
 
@@ -20,9 +17,6 @@
 
 ### 中文
 **[QwQChat](https://qwq.chat)**. 是一个多功能的AI技术门户，为用户提供了丰富的AI模型访问。从基础语言模型到高级视觉和文本分析工具，平台满足了多样化的AI交互需求。用户可以在各个领域探索AI功能，使AI技术触手可及。
-
-### Русский
-**[QwQChat](https://qwq.chat)**. служит многофункциональным порталом в мир технологий ИИ, предоставляя пользователям доступ к широкому спектру моделей ИИ. От базовых языковых моделей до продвинутых инструментов визуального и текстового анализа, платформа удовлетворяет разнообразные потребности в взаимодействии с ИИ. Благодаря удобной системе пополнения токенов, пользователи могут исследовать возможности ИИ в различных областях.
 
 <br>
 
