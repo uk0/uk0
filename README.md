@@ -1,5 +1,8 @@
-### Hi bro|你好哇 👋
+### Hi 
 
+
+* [Blog](https://firsh.me)
+  
 <br>
 <br>
 
