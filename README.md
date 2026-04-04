@@ -4,6 +4,9 @@
 * [Blog](https://firsh.me)
   
 <br>
+关注我的微信公众号：
+<img width="482" height="138" alt="025e9437-9ad7-48f0-acbc-d355df5889f6" src="https://github.com/user-attachments/assets/c5fedbab-4ea6-4f77-8bef-900d3cf511bd" />
+
 <br>
 
 
