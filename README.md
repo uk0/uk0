@@ -4,11 +4,11 @@
 * [Blog](https://firsh.me)
 
 <br>
-关注我的微信公众号：
-<br>
-<img width="200" height="60" alt="025e9437-9ad7-48f0-acbc-d355df5889f6" src="https://github.com/user-attachments/assets/c5fedbab-4ea6-4f77-8bef-900d3cf511bd" />
-<br>
+> 微信公众号：你起来我讲两句<br>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c675034-505e-40bb-824f-f709c02b1f1e" width="256" alt="WeChat QR Code">
+</p>
 
 ## **[QWQChat](https://qwq.chat)** ： Your Gateway to AI Interaction
 
