@@ -1,7 +1,7 @@
-### Hi 
+### Hi bro 
 
 
-* [Blog](https://firsh.me)
+* [My Blog](https://firsh.me)
 
 <br>
 
