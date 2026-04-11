@@ -17,8 +17,6 @@
 
 ### changelog
 
-* 完全公益咯，我在`Linux.do` token不够的找我加即可ID: `@NEOJ`
-
 ### English
 
 **[QwQChat](https://qwq.chat)** always free 
