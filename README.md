@@ -22,4 +22,9 @@
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/25b2b082-f8c9-416c-b138-3a453cbba646" />
 
 
+
+### NeoShell
+
+**[Goto Download]([https://qwq.chat](https://neoshell.wwwneo.com/)
+
 <!-- [![uk-wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uk0&layout=compact)]() -->
