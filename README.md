@@ -25,6 +25,6 @@
 
 ### NeoShell
 
-**[Goto Download]([https://qwq.chat](https://neoshell.wwwneo.com/)
+**[Goto Download](https://neoshell.wwwneo.com/)**
 
 <!-- [![uk-wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uk0&layout=compact)]() -->
