@@ -27,4 +27,7 @@
 
 **[Goto Download](https://neoshell.wwwneo.com/)**
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e5bb15de-1408-4dcf-bb82-bcea9c5f480f" />
+
+
 <!-- [![uk-wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uk0&layout=compact)]() -->
