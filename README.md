@@ -1,7 +1,11 @@
-### Hi bro 
+### Hi 
 
 
 * [My Blog](https://firsh.me)
+* 
+<br>
+
+* [Dev Tools](https://tools.wwwneo.com/)
 
 <br>
 
