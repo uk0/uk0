@@ -9,7 +9,7 @@
 
 <br>
 
-> 微信公众号：**你起来我讲两句** <br>
+> WeChat <br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c675034-505e-40bb-824f-f709c02b1f1e" width="256" alt="WeChat QR Code">
